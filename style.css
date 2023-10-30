@@ -584,6 +584,7 @@ CTA Section START
   padding: 0 1rem;
 }
 .cta--1--header {
+  padding-top: 80px;
   text-align: center;
   margin: 0 0 7rem 0;
   color: var(--black--);
