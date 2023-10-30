@@ -617,8 +617,7 @@ CTA Section START
   color: var(--grey--);
 }
 .cta--text--box .cta--1--btn {
-  padding-top : 100px;
-  margin: 4rem 0 0 0;
+  margin: 5rem 0 0 0;
 }
 /* ---------------------------------
 CTA Section Media Query
